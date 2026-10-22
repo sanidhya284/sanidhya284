@@ -19,7 +19,7 @@ A full-stack URL shortener designed to keep redirects independent of background 
 
 **Tech stack:** TypeScript, Node.js, Express, Next.js, MongoDB, Redis, BullMQ.
 
-[Live Demo](https://dus-web.vercel.app) · [GitHub Profile](https://github.com/sanidhya284/DUS)
+[Live Demo](https://dus-web.vercel.app) · [GitHub Repository](https://github.com/sanidhya284/DUS)
 
 ## Areas I'm Exploring
 
